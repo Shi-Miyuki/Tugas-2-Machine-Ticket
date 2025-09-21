@@ -1,21 +1,31 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Ticket Machine
 
-PROJECT TITLE: Ticket Machine
-PURPOSE OF PROJECT: To make Ticket Machine using Java Language 
-VERSION or DATE:- 
-HOW TO START THIS PROJECT: 
-1. Open BlueJ Aps 
-2. Make new Project 
-3. Copy all the code in github on project folder 
-4. Click right of cursor 
-5. Make new ticket 
-6. add how much ticket do you want 
-7. done
-AUTHORS: Aziz Adi Pramana
-USER INSTRUCTIONS: Fajar Baskoro S. Kom, M. T.
+## PROJECT TITLE:
+Ticket Machine
 
+## PURPOSE OF PROJECT:
+To create a Ticket Machine using Java programming language.
 
+## VERSION or DATE:
+Version 1.0 - 
+
+## HOW TO START THIS PROJECT:
+1. Download and install **BlueJ** (Java IDE).
+2. Clone or download this project from GitHub.
+3. Open BlueJ and create a new project.
+4. Import the downloaded files into the BlueJ project.
+5. Compile and run the project.
+
+## AUTHORS:
+Aziz Adi Pramana
+
+## SUPERVISED BY:
+Fajar Baskoro, S.Kom., M.T.
+
+## USER INSTRUCTIONS:
+1. Launch **BlueJ** and open the "Ticket Machine" project.
+2. Create a new `TicketMachine` object by right-clicking and selecting "new TicketMachine()".
+3. Insert money into the machine by calling the `insertMoney(int amount)` method.
+4. Specify the number of tickets you want to purchase using the `setTicketCount(int count)` method.
+5. Print the ticket(s) by calling the `printTicket()` method.
+6. Follow the prompts to complete the transaction and print your tickets.
